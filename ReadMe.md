@@ -19,6 +19,7 @@
 # How to run the code
 
 - Clone the repo ` git@github.com:MartinPirate/crypo_report.git`
+- copy the `trasactions.csv` file  from`https://github.com/Nparooei/Propine/tree/develop/data` to the data directory (too huge to commit 😂️)
 - Run `npm install` to install the dependencies
 - Run `tsc server.ts`  typescript compilation
 - Run `npm run start  ` for option 1 - no params
